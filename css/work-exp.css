@@ -1,0 +1,68 @@
+html {
+    text-align: center;
+    overflow: scroll;
+}
+
+header{
+    font-size: 45px;
+    font-family: 'Asap', sans-serif;
+    padding: 20px;
+}
+
+.nokia  {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+
+}
+
+.test-automation-developer-sept p {
+    text-align: left;
+    margin: auto;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    border: 3px solid black;
+    width: 650px;
+    height: auto;
+    border-radius: 25px;
+    padding: 35px;
+    overflow: auto;
+    margin-bottom: 25px;
+}
+
+.nokia p {
+    text-align: left;
+    margin: auto;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    border: 3px solid black;
+    width: 650px;
+    height: 200px;
+    border-radius: 25px;
+    padding: 35px;
+}
+
+.nutrien  {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+.nutrien {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+.nutrien p {
+    text-align: left;
+    margin: auto;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    border: 3px solid black;
+    width: 650px;
+    height: 200px;
+    border-radius: 25px;
+    padding: 35px;
+    overflow: auto;
+}
